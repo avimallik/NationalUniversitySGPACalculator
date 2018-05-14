@@ -3,6 +3,11 @@ National Unversity Bangladesh, SGPA Caclculator is one kind of Calculator Which 
 and also give Comment.
 and it has also a Special Feture, which is to print your result in Text Format 
 
+<b>Author :</b> <br>
+Arunav Mallik Avi (Arm Avi), <br>
+Department of Computer Science and Engineering, 
+National University, Bangladesh<br>
+
 ##Code Description:
  
           
