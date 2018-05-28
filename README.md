@@ -1,5 +1,5 @@
 # NationalUniversitySGPACalculator
-National Unversity Bangladesh, SGPA Caclculator is one kind of Calculator Which is Specially Made for National University Computer Science and Engineering Students it. it Calculates Each Semester Subject Result and give the the overall SGPA. It has also a Feture, It give some Resourse Basis of your Result, Like as If your SGPA is less than 3.0 it give a Button, which contains some link of Learning/Study Site
+National Unversity Bangladesh, SGPA Caclculator is one kind of Calculator Which is Specially Made for National University Computer Science and Engineering Students.I made this application becasue in National University Semester result sheet there was no any overall SGPA Value so i decide code built it to find overall SPGA Grade this application is 200 times download. it Calculates Each Semester Subject Result and give the the overall SGPA. It has also a Feture, It gives some Resourse, Basis of your Result, Like as If your SGPA is less than 3.0 it give a Button, which contains some link of Learning/Study Site
 and also give Comment.
 and it has also a Special Feture, which is to print your result in Text Format 
 
@@ -133,3 +133,6 @@ here "addcre" is Total credit hour & cre1.cre2,cre3.......are the credit value a
         }
         
  this code is responsible for write students result in the text file. in this code i use java BufferWritter class and store the result in text file separately basis of each students name. if i type my name Avi in Type Name jtextfield it store the Avi.txt file 
+ 
+ <b> Screenshoot : </b> </br></br></br>
+ 
