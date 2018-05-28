@@ -135,4 +135,5 @@ here "addcre" is Total credit hour & cre1.cre2,cre3.......are the credit value a
  this code is responsible for write students result in the text file. in this code i use java BufferWritter class and store the result in text file separately basis of each students name. if i type my name Avi in Type Name jtextfield it store the Avi.txt file 
  
  <b> Screenshoot : </b> </br></br></br>
- 
+ ![national university sgpa calc](https://user-images.githubusercontent.com/21225215/40628126-f8a8b9dc-62e4-11e8-87cf-9efd44479e99.JPG)
+
